@@ -1,4 +1,4 @@
-# img2singlePDF
+# py-tic-tac-toe
 A two players Tic Tac Toe console game using Python
 
 
